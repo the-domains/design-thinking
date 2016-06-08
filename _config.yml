@@ -1,0 +1,28 @@
+name: design-thinking
+favicon: null
+layout_spectrum: 0.14998581632971764
+typography_spectrum: 0.3383108535781503
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6373630659654737
+  lightness: 0.6870006292592734
+  saturation: 0.7215195470489562
+  rhythmicContrast: 0.04749767831526697
+purpose: []
