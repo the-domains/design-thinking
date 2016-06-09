@@ -1,14 +1,9 @@
 ---
-author:
-  - name: IDEO
-    url: 'http://vimeo.com/ideo'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/15395662'
+inLanguage: null
 keywords: []
 description: >-
   IDEO worked with HackFwd to develop this tool to help design and iterate
@@ -16,6 +11,13 @@ description: >-
   http://weijiblog.com/more-from-me/. This was heavily inspired by the work of
   Alex Osterwalder, Gary Hamel and Michael Porter. For questions or comments
   contact @thulme / thulme@ideo.com
+datePublished: '2016-06-09T04:42:27.355Z'
+dateModified: '2016-06-09T04:42:26.481Z'
+author:
+  - name: IDEO
+    url: 'http://vimeo.com/ideo'
+    avatar: {}
+related: []
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/15395662'
     type: ios
@@ -43,15 +45,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/15395662'
 title: 'HackFwd: Visualize Your Business Model in 15 Minutes Flat'
-datePublished: '2016-06-08T18:33:47.609Z'
-dateModified: '2016-06-08T18:32:34.033Z'
-starred: false
 sourcePath: _posts/2016-06-08-hackfwd-visualize-your-business-model-in-15-minutes-flat.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+starred: true
 _type: VideoObject
 _context: 'http://schema.org'
 
