@@ -1,23 +1,18 @@
 ---
+datePublished: '2016-07-20T17:46:47.458Z'
+sourcePath: _posts/2016-06-08-hackfwd-visualize-your-business-model-in-15-minutes-flat.md
 inFeed: true
-hasPage: false
-inNav: false
 isBasedOnUrl: 'https://vimeo.com/15395662'
-inLanguage: null
+authors: []
+hasPage: false
 keywords: []
-description: >-
-  IDEO worked with HackFwd to develop this tool to help design and iterate
-  startups. Download a high res version of the model at
-  http://weijiblog.com/more-from-me/. This was heavily inspired by the work of
-  Alex Osterwalder, Gary Hamel and Michael Porter. For questions or comments
-  contact @thulme / thulme@ideo.com
-datePublished: '2016-06-09T04:42:27.355Z'
-dateModified: '2016-06-09T04:42:26.481Z'
+related: []
 author:
   - name: IDEO
     url: 'http://vimeo.com/ideo'
     avatar: {}
-related: []
+dateModified: '2016-07-20T17:46:46.620Z'
+title: 'HackFwd: Visualize Your Business Model in 15 Minutes Flat'
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/15395662'
     type: ios
@@ -45,17 +40,23 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-title: 'HackFwd: Visualize Your Business Model in 15 Minutes Flat'
-sourcePath: _posts/2016-06-08-hackfwd-visualize-your-business-model-in-15-minutes-flat.md
-authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+description: >-
+  IDEO worked with HackFwd to develop this tool to help design and iterate
+  startups. Download a high res version of the model at
+  http://weijiblog.com/more-from-me/. This was heavily inspired by the work of
+  Alex Osterwalder, Gary Hamel and Michael Porter. For questions or comments
+  contact @thulme / thulme@ideo.com
+inLanguage: null
+inNav: false
+via: {}
 starred: true
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F15395662&amp;url=https%3A%2F%2Fvimeo.com%2F15395662&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F92645373_640.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
