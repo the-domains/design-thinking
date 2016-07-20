@@ -24,15 +24,14 @@ description: >-
   hardwired to deal well with high levels of complexity. They need help.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://hbr.org/2015/09/design-thinking-comes-of-age'
 title: Design Thinking Comes of Age
-datePublished: '2016-06-08T18:33:47.465Z'
-dateModified: '2016-06-08T18:31:30.918Z'
-starred: false
+datePublished: '2016-07-20T17:35:32.747Z'
+dateModified: '2016-07-20T17:35:31.576Z'
 sourcePath: _posts/2016-06-08-design-thinking-comes-of-age.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+via: {}
+starred: false
+url: design-thinking-comes-of-age/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
