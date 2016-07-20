@@ -1,20 +1,4 @@
-name: designthinking
-favicon: null
-layout_spectrum: 0.32972
 typography_spectrum: 0.78881
-title: Design Thinking
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#fdfdfd'
@@ -26,4 +10,25 @@ color:
   lightness: 0
   saturation: 0
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.32972
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: designthinking
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - id: 9aa2c2fa-32e0-4907-82cc-da8713001c59
+    url: 2016-06-08-design-thinking-comes-of-age.html
+    name: Design Thinking Comes of Age
+    type: content
+favicon: null
+title: Design Thinking
 purpose: []
